@@ -1,0 +1,12 @@
+data:
+  path: data/cleaned.csv
+  features:
+    - sugars_100g
+    - fat_100g
+    - salt_100g
+    - proteins_100g
+    - energy-kcal_100g
+    - fiber_100g
+
+pca:
+  n_components: 3

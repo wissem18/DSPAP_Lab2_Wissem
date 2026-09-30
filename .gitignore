@@ -1,0 +1,11 @@
+# Virtual environments, independently of the chosen name
+*venv*/
+
+
+# Notebook, system, and generated output files
+.ipynb_checkpoints/
+.DS_Store
+results/
+
+# Local secrets
+.env
